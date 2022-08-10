@@ -1,0 +1,30 @@
+.qty {
+  min-width: 30%;
+  max-width: 40%;
+  height: 1.5rem;
+  background: none;
+  border: 1px solid black;
+  font-size: 1rem;
+  /* padding: 0.7rem; */
+  text-align: center;
+}
+.qty-container {
+  display: flex;
+  width: 30%;
+  gap: 5%;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+}
+.button {
+  /* padding: 10%; */
+  font-family: 'Courier New', Courier, monospace;
+  height: 1.2rem;
+  width: 1.2rem;
+  border: none;
+  background: none;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+}

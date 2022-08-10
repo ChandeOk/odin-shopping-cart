@@ -1,0 +1,12 @@
+nav {
+  height: 15vh;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  font-size: 2rem;
+}
+
+nav svg {
+  color: aliceblue;
+}

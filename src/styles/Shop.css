@@ -1,0 +1,17 @@
+.shop {
+  background-color: gray;
+  height: 85vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.products-container {
+  height: 90%;
+  width: 30%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  /* border: 1px solid black; */
+  gap: 1rem;
+}

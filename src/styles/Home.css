@@ -1,0 +1,13 @@
+.home {
+  background-color: gray;
+  height: 85vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.shop-main-link {
+  background-color: black;
+  display: inline-block;
+  border-radius: 20px;
+  padding: 2rem 4rem;
+}
